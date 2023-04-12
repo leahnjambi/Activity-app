@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Activity App</string>
+    <string-array name="contacts">
+        <item>Leah</item>
+        <item>Bobby</item>
+        <item>Janet</item>
+        <item>Patrick</item>
+        <item>Jarry</item>
+        <item>Glory</item>
+        <item>Dennis</item>
+        <item>Caren</item>
+        <item>Elsie</item>
+        <item>Quiton</item>
+        <item>Manu</item>
+        <item>Josiah</item>
+        <item>Victoria</item>
+        <item>Lorna</item>
+        <item>James</item>
+    </string-array>
+</resources>
